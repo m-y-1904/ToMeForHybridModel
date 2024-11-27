@@ -1,7 +1,7 @@
 # ToMe Modifications
 
 ## Overview
-This directory provides instructions for modifying the [ToMe](https://github.com/facebookresearch/ToMe) library. The modifications adapt Token Merging to MobileViT.
+This directory provides instructions for modifying the [ToMe](https://github.com/facebookresearch/ToMe) library.
 
 ## How to Apply Modifications
 1. Clone the original `ToMe` repository from the [official site](https://github.com/facebookresearch/ToMe):
